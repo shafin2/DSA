@@ -1,8 +1,5 @@
-Singly Linked List Implementation in Java
-This is a Java program that implements a singly linked list, a common data structure used in computer science. The program allows for the addition, deletion, and updating of nodes in the linked list, as well as searching and printing the contents of the list.
-
-Functions
-The following functions are implemented in the program:
+Java Linked List Implementation
+This is a simple implementation of a singly linked list data structure in Java. It includes the following methods:
 
 addAtFirst(String str): Adds a new node with the specified data at the beginning of the linked list.
 addAtLast(String str): Adds a new node with the specified data at the end of the linked list.
