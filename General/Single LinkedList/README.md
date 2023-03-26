@@ -1,7 +1,8 @@
-Java Linked List Implementation
-This is a simple implementation of a singly linked list data structure in Java. It includes the following methods:
+#Java Linked List Implementation
 
-addAtFirst(String str): Adds a new node with the specified data at the beginning of the linked list.
+###This is a simple implementation of a singly linked list data structure in Java. It includes the following methods:
+
+**addAtFirst(String str): Adds a new node with the specified data at the beginning of the linked list.
 addAtLast(String str): Adds a new node with the specified data at the end of the linked list.
 addAtLoc(String str, int index): Adds a new node with the specified data at the specified index in the linked list.
 deleteAtFirst(): Removes the first node from the linked list.
@@ -11,3 +12,4 @@ deleteByData(String data): Removes all nodes from the linked list that contain t
 search(String str): Searches the linked list for a node that contains the specified data and returns the node.
 getSize(): Returns the number of nodes in the linked list.
 print(): Prints the contents of the linked list to the console.
+**
